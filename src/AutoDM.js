@@ -13,7 +13,22 @@ const SendMessage = user => {
 
   const obj = {
     screen_name,
-    text: GenerateMessage(name)
+    text: Oi, me chamo Rafael, e gostaria de propor um sistema de "Uma mão lava a outra", seria o seguinte, você me ajudaria no Instagram, como por exemplo: CURTIR E COMENTAR NAS 4 FOTOS/VÍDEOS MAIS RECENTES (O comentário tem que fazer sentido com a postagem). E em troca eu lhe dou uns RTs e até lhe DIVULGO para mais de 100 mil seguidores. 
+
+E ai, o que acha? 
+
+Favores e Recompensas: 
+CURTIDA NAS 4 FOTOS/VÍDEOS: 1 RT 
+COMENTÁRIOS NAS 4 FOTOS/VÍDEOS: 1 INDICAÇÃO 
+
+IMPORTANTE: - O comentário deve haver mais de 3 palavras na frase obrigatoriamente.
+- Peço que você também obrigatoriamente salve a postagem.
+
+Obs.: Depois de ter feito isso, me informe aqui qual é o seu perfil do instagram.
+
+LINK DO PERFIL: https://www.instagram.com/rafaelbrunoef      
+
+ATENÇÃO: Sempre que eu postar foto ou vídeo novo (Então é importante que me siga no Instagram e ative as notificações), faça esse mesmo processo, e me notifique por aqui, assim eu continuo a te ajudar no crescimento do seu Twitter!
   };
   // the follow stream track if I follow author person too.
   if (screen_name != my_user_name) {
